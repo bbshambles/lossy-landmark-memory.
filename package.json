@@ -1,0 +1,16 @@
+{
+  "name": "lossy-landmark-memory",
+  "version": "0.1.0",
+  "type": "module",
+  "private": false,
+  "scripts": {
+    "demo": "ts-node src/index.ts",
+    "build": "tsc -p ."
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@types/node": "^20.11.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.0"
+  }
+}
