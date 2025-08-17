@@ -1,4 +1,4 @@
-m
+
 Philosophy of Lossy Landmark Memory
 
 The Third Place
